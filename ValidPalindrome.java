@@ -1,4 +1,4 @@
-class Solution {
+class ValidPalindrome {
     public boolean isPalindrome(String s) {
         
         String reverse = "";
